@@ -7,4 +7,4 @@ Create your restaurant.db using replit.com by condition as follows:
 - Query the data from the restaurant.db about 3 queries that you required.
 
 ### Reference
-Link: https://replit.com/@NarupongJarasbu/CreaterestaurantdatabaseusingSQLite?v=1
+Link: https://replit.com/@NarupongJarasbu/CreaterestaurantdatabaseusingSQLite
